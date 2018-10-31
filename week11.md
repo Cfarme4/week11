@@ -20,3 +20,10 @@
 
 - We'll start this week by continuing to work through our example of demography simulation on a landscape.
 - This will allow us to see a moderately sophisticated program built with OOP from the ground up.
+
+(self.nRows=5,nColumns=5): gives us a default of our landscape
+every row is a list
+Landscape [
+          [cell1,cell2.cell3,cell4,cell5] #row 1
+          so scrpit should spit out a list of 5 row all containing 5 digits from 0-24(5 rcolums 5 row each)
+          Sel. sections[][] gives you the the entry inside the list by what number is inside of the bracet ex sel.sections[0] get the first entry in the list 
